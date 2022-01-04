@@ -1,0 +1,14 @@
+In, On or At GitHub?
+
+
+Is there any rule for choose one preposition?
+
+My project is in /on/ at GitHub?
+
+1) Most references use "on" GitHub: For instance, the git repository is hosted on GitHub and the code is hosted on GitHub.
+
+2) GitHub is a container: a reasonable use for "on". 
+
+3) GitHub is considered a platform also: "on" that platform.
+
+What do you thing about it?
